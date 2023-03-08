@@ -1,0 +1,11 @@
+_BASE_: "../Base-MGN.yml"
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("AGReID",)
+  TESTS: ("AGReID",)
+
+OUTPUT_DIR: "logs/agreid/mgn_R50-ibn"

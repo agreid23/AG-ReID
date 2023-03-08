@@ -1,0 +1,7 @@
+_BASE_: "../Base-SBS.yml"
+
+DATASETS:
+  NAMES: ("AGReID",)
+  TESTS: ("AGReID",)
+
+OUTPUT_DIR: "logs/agreid/sbs_R50"
