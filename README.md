@@ -25,7 +25,7 @@ Frame: `F01111`
 
 ### Results
 
-| Modality  | Rank-1 | 
+| Model     | Rank-1 | 
 |-----------|--------|
 | BoT (R50) | 78.42  |
 | MGN (R50) | 79.27  |
